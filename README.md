@@ -1,5 +1,3 @@
-# Assignment-2
-
 # CSCI 4141 Information Retrieval - Assignment 2
 
 Welcome to the Assignment 2 repository for CSCI 4141 Information Retrieval. This assignment focuses on building an image retrieval system using technques like SIFT, CNN,vector databases, etc.
