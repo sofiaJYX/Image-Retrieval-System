@@ -1,19 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7zE2enYT)
-# CSCI 4141 Information Retrieval - Assignment 2
+# Information Retrieval System
 
-Welcome to the Assignment 2 repository for CSCI 4141 Information Retrieval. This assignment focuses on building an image retrieval system using technques like SIFT, CNN,vector databases, etc.
-
-## Usage
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-4. Open the `assignment.ipynb` notebook file in your vscode or colab
-5. Run the notebook cells in sequential order and add relevant code or markdown to complete the assignment.
-
-## Deadline
-
-The assignment deadline is mentioned in the course syllabus. Make sure to submit your work before the deadline to avoid any penalties.
-
-If you have any questions or need further clarification, please don't hesitate to reach out.
-
-Good luck with the assignment!
+This python program explores fundamental concepts and techniques for image retrieval. The main objective is to develop an image retrieval system that efficiently searches a database to find visually similar images to a query image. This will involve implementing and comparing different feature extraction methods, similarity measures, and indexing structures.
